@@ -1,1 +1,32 @@
 # DAA-lab
+# Design and Analysis of Algorithms (DAA)
+
+Welcome to my DAA Lab repository.
+
+## Repository Structure
+
+### 📁 Lab 1
+
+This lab contains implementations of the following programs in C:
+
+1. Order of Growth of Functions
+2. Fair vs. Biased Coin Simulation
+3. Performance Analysis of Bubble Sort
+4. Towers of Hanoi
+5. Find the Partition Point
+6. Element Uniqueness
+
+## Files Included
+
+Each question contains:
+- C source code (`.c`)
+- Algorithm documentation (`.md`)
+- Graphs (`.png`) where applicable
+
+## Programming Language
+
+- C
+
+## Author
+
+**Shrujana**
