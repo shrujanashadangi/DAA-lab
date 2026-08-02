@@ -4,8 +4,11 @@
 Welcome to my DAA Lab repository.
 # Student Information
 NAME: Shrujana Shadangi
+
 ID: B525056
+
 YEAR: 2nd year
+
 BRANCH: Computer Engineering
 
 ## Repository Structure
