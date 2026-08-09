@@ -24,6 +24,14 @@ This lab contains implementations of the following programs in C:
 5. Find the Partition Point
 6. Element Uniqueness
 
+### 📁 Lab 2
+
+This lab contains implementations of the following programs in C:
+
+1. Dictionary ADT (Search, Insert, Delete, Min, Max, Predecessor, Successor)
+2. Merge Sort vs Modified Merge Sort
+3. Merging k Sorted Arrays
+
 ## Files Included
 
 Each question contains:
