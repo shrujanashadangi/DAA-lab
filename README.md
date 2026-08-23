@@ -43,6 +43,16 @@ This lab contains implementations of the following programs in C:
 5. Special-Pattern Square Matrix Multiplication in O(n^2)
 6. Loop Invariants and Analysis in Selection Sort
 
+# 📁 Lab 4
+
+This lab contains implementations of the following programs in C:
+
+1. Sort n (Number, Colour) Pairs by Colour (O(n) Time)
+2. Pair Sum Check Between Two Sets (O(n log n) Time)
+3. k Numbers Summing to a Target (O(n^(k-1) log n) Time)
+4. Maximum Simultaneous Occupancy at a Party (O(n log n) Time)
+5. Merge Overlapping Intervals (O(n log n) Time)
+6. Point Covered by the Maximum Number of Intervals (O(n log n) Time)
 
 ## Files Included
 
