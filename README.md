@@ -43,7 +43,7 @@ This lab contains implementations of the following programs in C:
 5. Special-Pattern Square Matrix Multiplication in O(n^2)
 6. Loop Invariants and Analysis in Selection Sort
 
-# 📁 Lab 4
+### 📁 Lab 4
 
 This lab contains implementations of the following programs in C:
 
@@ -53,6 +53,15 @@ This lab contains implementations of the following programs in C:
 4. Maximum Simultaneous Occupancy at a Party (O(n log n) Time)
 5. Merge Overlapping Intervals (O(n log n) Time)
 6. Point Covered by the Maximum Number of Intervals (O(n log n) Time)
+
+### 📁 Lab 5
+
+This lab contains implementations of the following programs in C:
+
+1. Find the Median of N Numbers without Sorting
+2. Find the K'th Smallest Element without Sorting
+3. Quick Sort of N Random Elements Stored in a File
+4. Heap Sort of N Randomly Generated Elements Stored in a File
 
 ## Files Included
 
