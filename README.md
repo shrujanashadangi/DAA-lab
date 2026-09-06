@@ -63,6 +63,15 @@ This lab contains implementations of the following programs in C:
 3. Quick Sort of N Random Elements Stored in a File
 4. Heap Sort of N Randomly Generated Elements Stored in a File
 
+### 📁 Lab 6
+
+This lab contains implementations of the following programs in C:
+
+1. 1D Array Operations and Their Complexities (Max, Median, Mode, Partition, etc.)
+2. 2D Square Matrix Operations and Their Complexities (Determinant, Transpose, Eigenvalue)
+3. Convolution of Two Vectors using Divide and Conquer (O(n log n) via FFT)
+4. Sorting via Reversal Procedure (O(n log^2 n) Cost)
+
 ## Files Included
 
 Each question contains:
