@@ -70,7 +70,20 @@ This lab contains implementations of the following programs in C:
 1. 1D Array Operations and Their Complexities (Max, Median, Mode, Partition, etc.)
 2. 2D Square Matrix Operations and Their Complexities (Determinant, Transpose, Eigenvalue)
 3. Convolution of Two Vectors using Divide and Conquer (O(n log n) via FFT)
-4. Sorting via Reversal Procedure (O(n log^2 n) Cost)
+4. Sorting via Reversal Procedure (O(n log^2 n) Cost
+
+### 📁 Lab 7
+
+This lab contains implementations of the following programs in C:
+
+1. Invert the Coin-Triangle
+2. Super Egg Testing Experiment (Dynamic Programming)
+3. Reve's Puzzle (4-Peg Tower of Hanoi)
+4. Security Switches
+5. Hitting a Moving Target
+6. The Best Time to Be Alive (Max Overlapping Intervals)
+7. Matrix Chain Multiplication
+
 
 ## Files Included
 
